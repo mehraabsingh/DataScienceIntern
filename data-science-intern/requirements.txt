@@ -1,0 +1,9 @@
+# Data Science Intern Assignment — dependencies
+#   pip install -r requirements.txt
+#
+# CPU only. No GPU, no deep learning framework, no internet access required.
+
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.1
+matplotlib>=3.5
